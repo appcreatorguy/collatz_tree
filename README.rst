@@ -2,11 +2,6 @@
 Collatz Tree
 ============
 
-
-.. image:: https://img.shields.io/pypi/v/collatz_tree.svg
-        :target: https://pypi.python.org/pypi/collatz_tree
-
-
 .. image:: https://github.com/appcreatorguy/collatz_tree/actions/workflows/python-build.yml/badge.svg
         :target: https://github.com/appcreatorguy/collatz_tree/actions/workflows/python-build.yml
 
