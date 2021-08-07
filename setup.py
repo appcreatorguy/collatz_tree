@@ -41,6 +41,6 @@ setup(
     name='collatz_tree',
     packages=find_packages(include=['collatz_tree', 'collatz_tree.*']),
     url='https://github.com/appcreatorguy/collatz_tree',
-    version='0.1.0',
+    version='0.2.0-dev0',
     zip_safe=False,
 )
